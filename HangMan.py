@@ -13,7 +13,6 @@ word_list = [
     'backpack',
     'crust',
     'dent',
-    'market',
     'knock',
     'smite']
 
